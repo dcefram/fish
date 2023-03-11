@@ -1,0 +1,2 @@
+# config.fish would most likely store secrets not for the world to see
+config.fish
