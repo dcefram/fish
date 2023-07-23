@@ -10,8 +10,6 @@ function shareimg
 
   if test -z "$output"
     set output $_flag_i
-  else
-    echo "zebra"
   end
 
   # resize image and save to ~/Pictures/blog/
